@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1382016563 source:c:\users\xana\desktop\ccode\item name creator\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<time.h>
+	"itemnamer.hpp"
+	"foods.hpp"
+
+1382016794 c:\users\xana\desktop\ccode\item name creator\itemnamer.hpp
+	<string>
+	"passwd.h"
+
+1381466096 source:c:\users\xana\desktop\ccode\item name creator\foods.cpp
+	"foods.hpp"
+	<stdlib.h>
+
+1381465079 c:\users\xana\desktop\ccode\item name creator\foods.hpp
+	<string.h>
+	<vector>
+	"itemnamer.hpp"
+
+1382016643 c:\users\xana\desktop\ccode\item name creator\passwd.h
+
+1381466098 source:c:\users\owner\desktop\ccode\item name creator\foods.cpp
+	"foods.hpp"
+	<stdlib.h>
+
+1381465080 c:\users\owner\desktop\ccode\item name creator\foods.hpp
+	<string.h>
+	<vector>
+	"itemnamer.hpp"
+
+1382016796 c:\users\owner\desktop\ccode\item name creator\itemnamer.hpp
+	<string>
+	"passwd.h"
+
+1382016644 c:\users\owner\desktop\ccode\item name creator\passwd.h
+
+1383009878 source:c:\users\owner\desktop\projects\ccode\item name creator\foods.cpp
+	"foods.hpp"
+	<stdlib.h>
+
+1381465080 c:\users\owner\desktop\projects\ccode\item name creator\foods.hpp
+	<string.h>
+	<vector>
+	"itemnamer.hpp"
+
+1383018153 c:\users\owner\desktop\projects\ccode\item name creator\itemnamer.hpp
+	<string>
+	"passwd.h"
+
+1382016644 c:\users\owner\desktop\projects\ccode\item name creator\passwd.h
+
+1382980954 source:c:\users\owner\desktop\projects\ccode\item name creator\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<time.h>
+	"itemnamer.hpp"
+	"foods.hpp"
+
+1383019111 source:c:\users\owner\desktop\projects\ccode\item name creator\furnitureandarcitecture.cpp
+	<vector>
+	<stdlib.h>
+	"itemnamer.hpp"
+

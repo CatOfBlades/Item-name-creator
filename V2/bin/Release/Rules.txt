@@ -1,0 +1,5 @@
+Each player may create one set of ten random items.
+Each player may switch out any or all of there items for ones in the pre genarated sets.
+Each player also starts out with 300 gold in coins or currency.
+After two hours of play a player may create a new set and exchange any two items between the old and new sets
+then may switch out any or all items with ones in the pre genarated sets (the old set is then discarded).
